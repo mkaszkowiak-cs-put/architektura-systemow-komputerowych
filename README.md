@@ -3,11 +3,11 @@
 Repozytorium zawiera kod źródłowy projektu na przedmiot Architektura Systemów Komputerowych.
 
 ## Autorzy
-- Maciej Kaszkowiak
-- Adam Jałocha
+- Maciej Kaszkowiak (@asdfMaciej)
+- Adam Jałocha (@energywraith)
 
 ### Dokumentacja
-Dokumentacja dostępna jest po skontaktowaniu się z autorami.
+Pełna dokumentacja jest dostępna po skontaktowaniu się z autorami.
 
 ### Film
 Zapraszamy do obejrzenia naszego filmu!
